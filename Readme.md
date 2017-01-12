@@ -1,16 +1,13 @@
-###Developers Workshop 2017
-*Date: 2017*
-*Location: Technical University of Denmark*
+Developers Workshop 2017
 
-##Description
+Date: 2017
 
-##Objectives
+Location: Technical University of Denmark
 
-##Schedule
+Description
 
-##Participants
-|Name|Notes|
-|---|---|
-|Arni Magnusson||
-|Mollie Brooks||
-|Allan Hicks||
+Objectives
+
+Schedule
+
+Participants
