@@ -3,16 +3,14 @@ layout: default
 title: Developers Workshop 2017
 ---
 
-<h2>Developers Workshop 2017<h2>
+<h2>Developers Workshop 2017</h2>
+*Date* 2017<br/>
+*Location* Technical University of Denmark<br/>
 
-*Date* 2017
+<h1>Description</h1>
 
-*Location* Technical University of Denmark
+<h1>Objectives</h1>
 
-#Description
+<h1>Schedule</h1>
 
-#Objectives
-
-#Schedule
-
-#Participants
+<h1>Participants</h1>
