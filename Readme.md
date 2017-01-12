@@ -3,16 +3,16 @@ layout: default
 title: Developers Workshop 2017
 ---
 
-###Developers Workshop 2017
+#Developers Workshop 2017
 
 *Date* 2017
 
 *Location* Technical University of Denmark
 
-##Description
+#Description
 
-##Objectives
+#Objectives
 
-##Schedule
+#Schedule
 
-##Participants
+#Participants
