@@ -3,15 +3,16 @@ layout: default
 title: Agenda Developers Workshop 2017
 ---
 
-<h1>Developers Workshop 2017</h1>
+# Developers Workshop 2017
 
-<b>Date</b> 2017<br/>
-<b>Location</b> Technical University of Denmark<br/>
+__Date__ 2017
 
-<h2>Description</h2>
+__Location__ Technical University of Denmark
 
-<h2>Objectives</h2>
+## Description
 
-<h2>Schedule</h2>
+   Objectives
 
-# Participants
+## Schedule
+
+## Participants
