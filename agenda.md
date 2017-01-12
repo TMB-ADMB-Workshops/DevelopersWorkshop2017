@@ -3,7 +3,7 @@ layout: default
 title: Developers Workshop 2017
 ---
 
-#Developers Workshop 2017
+<h2>Developers Workshop 2017<h2>
 
 *Date* 2017
 
