@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Developers Workshop 2017
+title: Agenda Developers Workshop 2017
 ---
 
 <h1>Developers Workshop 2017</h1>
