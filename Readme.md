@@ -1,6 +1,16 @@
----
-layout: default
-title: Developers Workshop 2017
----
+###Developers Workshop 2017
+*Date: 2017*
+*Location: Technical University of Denmark*
 
-For Developers Workshop 2017
+##Description
+
+##Objectives
+
+##Schedule
+
+##Participants
+|Name|Notes|
+|---|---|
+|Arni Magnusson||
+|Mollie Brooks||
+|Allan Hicks||
