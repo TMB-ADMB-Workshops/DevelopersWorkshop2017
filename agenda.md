@@ -4,13 +4,14 @@ title: Developers Workshop 2017
 ---
 
 <h1>Developers Workshop 2017</h1>
-<b>*Date* 2017</b><br/>
-<b>*Location* Technical University of Denmark</b><br/>
 
-<h3>Description</h3>
+<b>Date</b>2017<br/>
+<b>Location</b>Technical University of Denmark<br/>
 
-<h3>Objectives</h3>
+<h2>Description</h2>
 
-<h3>Schedule</h3>
+<h2>Objectives</h2>
 
-<h3>Participants</h3>
+<h2>Schedule</h2>
+
+<h2>Participants</h2>
