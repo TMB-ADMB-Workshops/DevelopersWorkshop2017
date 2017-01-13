@@ -17,10 +17,10 @@ __Location__ [Technical University of Denmark](http://www.aqua.dtu.dk/)
 
 ## Participants
 
-Name | Notes
+__Name__ | __Notes__
 --- | ---
 Dave Fournier |
 John Sibert |
-Arni Magnusson | President
-Mollie Brooks | Secretary
-Allan Hicks | Treasurer
+Arni Magnusson | ADMB Foundation President
+Mollie Brooks | ADMB Foundation Secretary
+Allan Hicks | ADMB Foundation Treasurer
