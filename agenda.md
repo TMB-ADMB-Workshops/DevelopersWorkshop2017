@@ -12,6 +12,8 @@ __Location__ [Technical University of Denmark](http://www.aqua.dtu.dk/), Copenha
 ## Description
 
    Objectives
+   
+   * Discuss with TMB developers to add spatial-temporal tools into ADMB. (Requested by Mark Maunder).
 
 ## Schedule
 
