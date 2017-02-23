@@ -12,8 +12,11 @@ August 14 - 18, 2017
 __Location__ 
 
 [International Council for the Exploration of the Sea (ICES)](http://www.ices.dk/)
+
 H. C. Andersens Boulevard 44-46,
+
 DK 1553 Copenhagen V,
+
 Denmark
 
 ## Description
