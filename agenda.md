@@ -27,6 +27,12 @@ Denmark
 
 ## Schedule
 
+__Monday__
+__Tuesday__
+__Wednesday__
+__Thursday__
+__Friday__
+
 ## Participants
 
 __Name__ | __NOTES__
