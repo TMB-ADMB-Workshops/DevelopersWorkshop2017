@@ -50,7 +50,7 @@ Helen Ogden | University of Warwick, United Kingdom
 Cole Monnahan | University of Washington, USA
 Hans Skaug | University of Bergen, Norway
 Alan Hicks | Seattle, USA
-Athol Whitten | Mezo Research, Sydney, Austalia
+Athol Whitten | Mezo Research, Sydney, Australia
 Gavin Fay | University of Massachusetts Dartmouth, Boston, USA
 Johnoel Ancheta |  University of Hawaii, Honolulu, USA
 
