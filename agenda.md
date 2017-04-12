@@ -26,6 +26,11 @@ __Objectives__
 __Possible Topics__
    
    * Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder).
+   
+   * Presentation on TINY_AD (proposed by John Sibert).
+     * Using TINY_AD to improve ADMB code base.
+     * Using TINY_AD to improve existing ADMB applications. Possible breakout session.
+   
 
 ## Schedule
 
