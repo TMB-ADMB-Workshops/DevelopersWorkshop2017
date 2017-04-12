@@ -21,7 +21,9 @@ Denmark
 
 ## Description
 
-   Objectives
+__Objectives__
+   
+__Possible Topics__
    
    * Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder).
 
@@ -29,13 +31,35 @@ Denmark
 
 __Monday__
 
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
+Noon | Lunch |
+
 __Tuesday__
+
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
+Noon | Lunch |
 
 __Wednesday__
 
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
+Noon | Lunch |
+
 __Thursday__
 
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
+Noon | Lunch |
+
 __Friday__
+
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
+Noon | Lunch |
+Afternoon | Foundation Meeting |
+
 
 ## Participants
 
@@ -52,5 +76,3 @@ Hans Skaug | University of Bergen, Norway
 Alan Hicks | Seattle, USA
 Athol Whitten | Mezo Research, Sydney, Australia
 Gavin Fay | University of Massachusetts Dartmouth, Boston, USA
-Johnoel Ancheta |  University of Hawaii, Honolulu, USA
-
