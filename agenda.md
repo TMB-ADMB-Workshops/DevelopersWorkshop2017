@@ -35,6 +35,15 @@ __Possible Topics__
    * Presentation on TINY_AD (proposed by John Sibert).
      * Using TINY_AD to improve ADMB code base.
      * Using TINY_AD to improve existing ADMB applications. Possible breakout session.
+     
+   * Priotizing avenues for statistical improvement
+     * Variational methods
+     * Using MCMC instead of Importance Sampling with fixed seed to replace Laplace approximation
+     * Incorporating generalized hypergeometric function (for N-mixture model)
+   
+   * Prioritizing computational improvements
+     * Low-memory bias-correction
+     * GPU testing for different operating systems
    
 
 ## Schedule
