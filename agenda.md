@@ -26,7 +26,7 @@ __Objectives__
 __Presentations__
   
   * Helen Ogden 
-    * **AddTitleHere**
+    * Checking the quality of Laplace-approximate inference 
    
 __Possible Topics__
    
