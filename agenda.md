@@ -95,7 +95,6 @@ Arni Magnusson | ADMB Foundation President
 Mollie Brooks | ADMB Foundation Secretary
 Allan Hicks | ADMB Foundation Treasurer
 Helen Ogden | University of Warwick, United Kingdom
-Cole Monnahan | University of Washington, USA
 Hans Skaug | University of Bergen, Norway
 Alan Hicks | Seattle, USA
 Athol Whitten | Mezo Research, Sydney, Australia
