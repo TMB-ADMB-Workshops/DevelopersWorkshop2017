@@ -99,3 +99,4 @@ Hans Skaug | University of Bergen, Norway
 Alan Hicks | Seattle, USA
 Athol Whitten | Mezo Research, Sydney, Australia
 Gavin Fay | University of Massachusetts Dartmouth, Boston, USA
+Johnoel Ancheta | ADMB Core Developer from University of Hawaii at Manoa, USA
