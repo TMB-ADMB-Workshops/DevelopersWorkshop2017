@@ -88,20 +88,20 @@ Afternoon | Foundation Meeting |
 ## Participants
 
 __Name__ | __Attendance__ | __Affiliation__ | __NOTES__
---- | ---
+--- | --- | --- | --- 
 Johnoel Ancheta | in person | University of Hawaii at Manoa, USA | ADMB Core Developer 
-Casper Berg	 | in person | Technical University of Denmark | Developer TMB and glmmTMB
+Casper Berg	 | in person | Technical University of Denmark |  TMB and glmmTMB developer
 Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Secretary
 Gavin Fay | in person | University of Massachusetts Dartmouth, Boston, USA | 
-Dave Fournier | ? | Otter Research | ADMB Founder
+Dave Fournier | ? | Otter Research | ADMB founder
 Chris Grandin | in person | Fisheries and Oceans Canada (DFO-MPO) |
 Andrea Havron | in person | University of Auckland |
 Allan Hicks | remote  | International Pacific Halibut Commission | ADMB Foundation Treasurer
-Kasper Kristensen	 | in person | Technical University of Denmark | Developer TMB and glmmTMB
+Kasper Kristensen	 | in person | Technical University of Denmark | TMB and glmmTMB developer
 Arni Magnusson | in person | International Council for the Exploration of the Sea(ICEAS) | ADMB Foundation President
-Cole Monnahan  | remote  |
-Anders Nielsen | in person | Technical University of Denmark |	Developer glmmTMB
+Cole Monnahan  | remote  | University of Washington | MCMC methods developer
+Anders Nielsen | in person | Technical University of Denmark | TMB and glmmTMB developer
 Helen Ogden | in person  | University of Warwick, United Kingdom | 
-John Sibert | remote | ADMB Project, JIMAR, University of Hawaii | ADMB Founder
+John Sibert | remote | ADMB Project, JIMAR, University of Hawaii | ADMB founder
 Hans Skaug | in person  | University of Bergen, Norway |
 Athol Whitten | ? | Mezo Research, Sydney, Australia |
