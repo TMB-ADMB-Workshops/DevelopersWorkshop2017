@@ -31,11 +31,11 @@ __Possible Topics__
 
 * Presentation on TINY_AD (proposed by John Sibert)
   * Using TINY_AD to improve ADMB code base
-  * Using TINY_AD to improve existing ADMB applications. Possible breakout session
+  * Using TINY_AD to improve existing ADMB applications - possible breakout session
 
 * Improvements to MCMC functionality
   * Demonstrate stable versions of NUTS for TMB and ADMB and how they compare to Stan
-  * What can go wrong and how to fix it (focus on stock assessments). Try on some real models
+  * What can go wrong and how to fix it (focus on stock assessments), try on some real models
   * Discuss next steps (if any)
 
 * Priotizing avenues for statistical improvement
@@ -53,32 +53,32 @@ __Monday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-Noon | Lunch |
+Noon | Lunch
 
 __Tuesday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-Noon | Lunch |
+Noon | Lunch
 
 __Wednesday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-Noon | Lunch |
+Noon | Lunch
 
 __Thursday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-Noon | Lunch |
-Afternoon | Foundation Meeting |
+Noon | Lunch
+Afternoon | Foundation Meeting
 
 __Friday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-Noon | Lunch |
+Noon | Lunch
 
 
 ## Participants
