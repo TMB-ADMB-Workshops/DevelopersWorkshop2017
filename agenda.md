@@ -72,13 +72,13 @@ __Thursday__
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
 Noon | Lunch |
+Afternoon | Foundation Meeting |
 
 __Friday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
 Noon | Lunch |
-Afternoon | Foundation Meeting |
 
 
 ## Participants
