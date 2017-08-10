@@ -86,21 +86,21 @@ Noon | Lunch |
 __Name__ | __Attendance__ | __Affiliation__ | __Notes__
 --- | --- | --- | ---
 Anders Nielsen | in person | Technical University of Denmark | TMB and glmmTMB developer
-Andrea Havron | in person | University of Auckland
-Arni Magnusson | in person | International Council for the Exploration of the Sea(ICEAS) | ADMB Foundation President
+Andrea Havron | in person | University of Auckland, NZ
+Arni Magnusson | in person | ICES Secretariat, Denmark | ADMB Foundation President
 Casper Berg | in person | Technical University of Denmark | TMB and glmmTMB developer
-Chris Grandin | in person | Fisheries and Oceans Canada (DFO-MPO)
-Gavin Fay | in person | University of Massachusetts Dartmouth, Boston, USA
+Chris Grandin | in person | DFO Pacific Biological Station, Canada
+Gavin Fay | in person | University of Massachusetts
 Hans Skaug | in person | University of Bergen, Norway
-Helen Ogden | in person | University of Warwick, United Kingdom
-Johnoel Ancheta | in person | University of Hawaii at Manoa, USA | ADMB Core Developer
+Helen Ogden | in person | University of Warwick, UK
+Johnoel Ancheta | in person | University of Hawaii | ADMB Core Developer
 Kasper Kristensen | in person | Technical University of Denmark | TMB and glmmTMB developer
 Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Secretary
 
 __Name__ | __Attendance__ | __Affiliation__ | __Notes__
 --- | --- | --- | ---
-Allan Hicks | remote | International Pacific Halibut Commission | ADMB Foundation Treasurer
-Athol Whitten | ? | Mezo Research, Sydney, Australia
+Allan Hicks | remote | Intl Pacific Halibut Commission | ADMB Foundation Treasurer
+Athol Whitten | ? | Mezo Research, Sydney
 Cole Monnahan | remote | University of Washington | MCMC methods developer
 Dave Fournier | ? | Otter Research | ADMB founder
 John Sibert | remote | ADMB Project, JIMAR, University of Hawaii | ADMB founder
