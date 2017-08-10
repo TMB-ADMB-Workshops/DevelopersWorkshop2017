@@ -22,30 +22,30 @@ __Objectives__
 
 __Presentations__
 
-  * Helen Ogden
-    * Checking the quality of Laplace-approximate inference
+* Helen Ogden
+  * Checking the quality of Laplace-approximate inference
 
 __Possible Topics__
 
-   * Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder)
+* Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder)
 
-   * Presentation on TINY_AD (proposed by John Sibert)
-     * Using TINY_AD to improve ADMB code base
-     * Using TINY_AD to improve existing ADMB applications. Possible breakout session
+* Presentation on TINY_AD (proposed by John Sibert)
+  * Using TINY_AD to improve ADMB code base
+  * Using TINY_AD to improve existing ADMB applications. Possible breakout session
 
-   * Improvements to MCMC functionality
-     * Demonstrate stable versions of NUTS for TMB and ADMB and how they compare to Stan
-     * What can go wrong and how to fix it (focus on stock assessments). Try on some real models
-     * Discuss next steps (if any)
+* Improvements to MCMC functionality
+  * Demonstrate stable versions of NUTS for TMB and ADMB and how they compare to Stan
+  * What can go wrong and how to fix it (focus on stock assessments). Try on some real models
+  * Discuss next steps (if any)
 
-   * Priotizing avenues for statistical improvement
-     * Variational methods
-     * Using MCMC instead of Importance Sampling with fixed seed to replace Laplace approximation
-     * Incorporating generalized hypergeometric function (for N-mixture model)
+* Priotizing avenues for statistical improvement
+  * Variational methods
+  * Using MCMC instead of Importance Sampling with fixed seed to replace Laplace approximation
+  * Incorporating generalized hypergeometric function (for N-mixture model)
 
-   * Prioritizing computational improvements
-     * Low-memory bias-correction
-     * GPU testing for different operating systems
+* Prioritizing computational improvements
+  * Low-memory bias-correction
+  * GPU testing for different operating systems
 
 ## Schedule
 
@@ -86,14 +86,14 @@ Noon | Lunch |
 __Name__ | __Attendance__ | __Affiliation__ | __NOTES__
 --- | --- | --- | ---
 Johnoel Ancheta | in person | University of Hawaii at Manoa, USA | ADMB Core Developer
-Casper Berg	 | in person | Technical University of Denmark | TMB and glmmTMB developer
+Casper Berg | in person | Technical University of Denmark | TMB and glmmTMB developer
 Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Secretary
 Gavin Fay | in person | University of Massachusetts Dartmouth, Boston, USA |
 Dave Fournier | ? | Otter Research | ADMB founder
 Chris Grandin | in person | Fisheries and Oceans Canada (DFO-MPO) |
 Andrea Havron | in person | University of Auckland |
 Allan Hicks | remote | International Pacific Halibut Commission | ADMB Foundation Treasurer
-Kasper Kristensen	 | in person | Technical University of Denmark | TMB and glmmTMB developer
+Kasper Kristensen | in person | Technical University of Denmark | TMB and glmmTMB developer
 Arni Magnusson | in person | International Council for the Exploration of the Sea(ICEAS) | ADMB Foundation President
 Cole Monnahan | remote | University of Washington | MCMC methods developer
 Anders Nielsen | in person | Technical University of Denmark | TMB and glmmTMB developer
