@@ -27,16 +27,16 @@ __Presentations__
 
 __Possible Topics__
 
-   * Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder).
+   * Discuss with TMB developers to add spatial-temporal tools into ADMB (Requested by Mark Maunder)
 
-   * Presentation on TINY_AD (proposed by John Sibert).
-     * Using TINY_AD to improve ADMB code base.
-     * Using TINY_AD to improve existing ADMB applications. Possible breakout session.
+   * Presentation on TINY_AD (proposed by John Sibert)
+     * Using TINY_AD to improve ADMB code base
+     * Using TINY_AD to improve existing ADMB applications. Possible breakout session
 
    * Improvements to MCMC functionality
-     * Demonstrate stable versions of NUTS for TMB and ADMB and how they compare to Stan.
-     * What can go wrong and how to fix it (focus on stock assessments). Try on some real models.
-     * Discuss next steps (if any).
+     * Demonstrate stable versions of NUTS for TMB and ADMB and how they compare to Stan
+     * What can go wrong and how to fix it (focus on stock assessments). Try on some real models
+     * Discuss next steps (if any)
 
    * Priotizing avenues for statistical improvement
      * Variational methods
@@ -46,7 +46,6 @@ __Possible Topics__
    * Prioritizing computational improvements
      * Low-memory bias-correction
      * GPU testing for different operating systems
-
 
 ## Schedule
 
