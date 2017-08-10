@@ -84,6 +84,7 @@ Noon | Lunch |
 ## Participants
 
 __Name__ | __Attendance__ | __Affiliation__ | __Notes__
+--- | --- | --- | ---
 Anders Nielsen | in person | Technical University of Denmark | TMB and glmmTMB developer
 Andrea Havron | in person | University of Auckland
 Arni Magnusson | in person | International Council for the Exploration of the Sea(ICEAS) | ADMB Foundation President
@@ -97,6 +98,7 @@ Kasper Kristensen | in person | Technical University of Denmark | TMB and glmmTM
 Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Secretary
 
 __Name__ | __Attendance__ | __Affiliation__ | __Notes__
+--- | --- | --- | ---
 Allan Hicks | remote | International Pacific Halibut Commission | ADMB Foundation Treasurer
 Athol Whitten | ? | Mezo Research, Sydney, Australia
 Cole Monnahan | remote | University of Washington | MCMC methods developer
