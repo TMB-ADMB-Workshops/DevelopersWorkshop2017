@@ -104,3 +104,4 @@ Athol Whitten | ? | Mezo Research, Sydney
 Cole Monnahan | remote | University of Washington | MCMC methods developer
 Dave Fournier | ? | Otter Research | ADMB founder
 John Sibert | remote | ADMB Project, JIMAR, University of Hawaii | ADMB founder
+Jim Ianelli | remote | ADMB Project, NOAA | ADMB fanboy
