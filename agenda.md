@@ -47,6 +47,12 @@ __Possible Topics__
   * Low-memory bias-correction
   * GPU testing for different operating systems
 
+* Improve TMB documentation [Book](http://kaskr.github.io/adcomp/_book/Tutorial.html)
+
+* Improve TMB Rstudio integration
+  - Easier setup. Continue `setupRstudio` branch.
+  - Make the static code analyzer work (use `.rs.setClangDiagnostics(2)` to debug it).
+
 ## Schedule
 
 __Monday__
