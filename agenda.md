@@ -59,33 +59,42 @@ __Monday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
+10am | Opening ceremony, Biscay Room (4th floor)
 Noon | Lunch
+5pm | Done
 
 __Tuesday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
+9am | Stuff
 Noon | Lunch
+5pm | Done
 
 __Wednesday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
+9am | Stuff
 Noon | Lunch
+5pm | Done
 
 __Thursday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
+9am | Stuff
 Noon | Lunch
 Afternoon | Foundation Meeting
+5pm | Done
 
 __Friday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
+9am | Stuff
 Noon | Lunch
-
+5pm | Done
 
 ## Participants
 
