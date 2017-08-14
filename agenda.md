@@ -61,6 +61,7 @@ __Time__ | __Activity__ | __Notes__
 --- | --- | ---
 10am | Opening ceremony, Biscay Room (4th floor)
 Noon | Lunch
+3pm | Helen Ogden's presentation
 5pm | Done
 
 __Tuesday__
