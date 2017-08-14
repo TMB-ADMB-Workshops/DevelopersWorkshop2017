@@ -116,7 +116,10 @@ __Name__ | __Attendance__ | __Affiliation__ | __Notes__
 --- | --- | --- | ---
 Allan Hicks | remote | Intl Pacific Halibut Commission | ADMB Foundation Treasurer
 Athol Whitten | ? | Mezo Research, Sydney
+Christoffer Albertsen | ? | Technical University of Denmark
 Cole Monnahan | remote | University of Washington | MCMC methods developer
 Dave Fournier | ? | Otter Research | ADMB founder
+Jim Thorson | ? | NOAA
 John Sibert | remote | ADMB Project, JIMAR, University of Hawaii | ADMB founder
 Jim Ianelli | remote | ADMB Project, NOAA | ADMB fanboy
+Uffe Thygesen | ? | Technical University of Denmark
