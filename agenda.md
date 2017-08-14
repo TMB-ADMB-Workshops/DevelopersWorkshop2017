@@ -108,7 +108,7 @@ Casper Berg | in person | Technical University of Denmark | TMB and glmmTMB deve
 Chris Grandin | in person | DFO Pacific Biological Station, Canada
 Gavin Fay | in person | University of Massachusetts
 Hans Skaug | in person | University of Bergen, Norway
-Helen Ogden | in person | University of Warwick, UK
+Helen Ogden | in person | University of Southampton, UK
 Johnoel Ancheta | in person | University of Hawaii | ADMB Core Developer
 Kasper Kristensen | in person | Technical University of Denmark | TMB and glmmTMB developer
 Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Secretary
