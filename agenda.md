@@ -1,7 +1,3 @@
----
-layout: default
-title: Agenda Developers Workshop 2017
----
 
 # Developers Workshop 2017
 
@@ -61,16 +57,23 @@ __Time__ | __Activity__ | __Notes__
 --- | --- | ---
 10am | Opening ceremony, Biscay Room (4th floor)
 Noon | Lunch
-3pm | Helen Ogden's presentation
+1pm | Helen Ogden's presentation
+3pm | Breakout groups
 5pm | Done
 
 __Tuesday__
 
 __Time__ | __Activity__ | __Notes__
 --- | --- | ---
-9am | Stuff
+9am | Start
 Noon | Lunch
 5pm | Done
+
+* Presentation: Kasper Kristensen, “Recent updates to TMB”
+* Presentation: Kasper Kristensen, “TINY_AD in TMB and ADMB”
+* Presentation: Kasper Kristensen, “How to add user contributed C++ files”
+* Discuss topics to cover in videos.
+* Discuss training courses.
 
 __Wednesday__
 
@@ -88,6 +91,8 @@ __Time__ | __Activity__ | __Notes__
 Noon | Lunch
 Afternoon | Foundation Meeting
 5pm | Done
+
+* Discuss potential working groups that could be funded through [rOpenSci](https://www.r-bloggers.com/announcing-the-ropensci-fellowships-program/)
 
 __Friday__
 
