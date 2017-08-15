@@ -121,7 +121,7 @@ Mollie Brooks | in person | Technical University of Denmark | ADMB Foundation Se
 __Name__ | __Attendance__ | __Affiliation__ | __Notes__
 --- | --- | --- | ---
 Allan Hicks | remote | Intl Pacific Halibut Commission | ADMB Foundation Treasurer
-Athol Whitten | ? | Mezo Research, Sydney
+Athol Whitten | remote | Mezo Research, Sydney
 Christoffer Albertsen | ? | Technical University of Denmark
 Cole Monnahan | remote | University of Washington | MCMC methods developer
 Dave Fournier | ? | Otter Research | ADMB founder
