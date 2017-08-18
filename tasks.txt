@@ -1,0 +1,23 @@
+Follow-up tasks:
+
+Technical
+
+Report NUTS findings to Cole Monnahan [Andrea, Mollie]
+Release ADMB-IDE [Arni]
+Add ADMB-IDE to download counter [Johnoel]
+Edit and upload video to YouTube [Hans, Arni]
+TMB Wiki/Documentation page: link to external examples and videos [Mollie]
+Implement high-precision functions, using Tiny AD (as was done for pbeta)
+
+Foundation
+
+Contact faculty in US universities, ask if they can admin Johnoel's work
+Close Hawaii bank account, get Seattle account in order
+Finish budget overview, incl. all accounts
+Draft a standard letter, asking research institutes for financial support
+Identify research institutes (and key people) to send letter
+Apply for ROpenSci grant 30K/50K
+
+Start planning 2018 dev meeting (place, people, topics)
+Explore Friday Harbor as a venue (place to stay), also:
+  New Bedford, St. John's, Portland [Seattle & Copenhagen]
